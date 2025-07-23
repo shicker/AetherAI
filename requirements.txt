@@ -1,0 +1,14 @@
+flask==3.0.3
+flask_cors==4.0.0
+transformers==4.45.1
+torch==2.4.1
+datasets==2.21.0
+pymongo==4.10.1
+pypdf2==3.0.1
+accelerate==0.44.0
+peft==0.13.0
+numpy==1.26.4
+pandas==2.2.3
+scikit-learn==1.5.2
+nltk==3.9.1
+gunicorn==22.0.0
